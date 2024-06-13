@@ -48,7 +48,7 @@ type DOMNode = {
 
 For example for the following section
 
-<img width="640" alt="Screenshot 2024-06-11 at 9 23 58 AM" src="https://github.com/BizwiseInc/sectioning-interview-questions/assets/6236424/cf1b9572-3671-4943-92db-d37e81a62906">
+<img width="640" alt="Screenshot 2024-06-11 at 9 23 58 AM" src="https://github.com/BizwiseInc/sectioning-interview-template/assets/6236424/67448479-7f9e-4df1-b422-7ebd86542223">
 
 Its representation could look like
 ```typescript
