@@ -9,23 +9,25 @@ Your team is building a system to parse and categorize the HTML for that custome
 ### Sections
 Small Business websites are often categorized into rows of content which we call "Sections". In our CMS there are various types of sections, each which support specific types of content.
 
+
+
 <table>
   <th colspan="2">Examples of Sections -> Extracted Data</th>
   <tr>
     <td>
-<img width="1098" alt="Screenshot 2024-06-11 at 9 24 23 AM"  src="https://github.com/BizwiseInc/sectioning-interview-questions/assets/6236424/9498b474-c702-47bb-b53c-fd313f2be35e">
+<img width="1098" alt="Screenshot 2024-06-11 at 9 24 23 AM" src="https://github.com/BizwiseInc/sectioning-interview-template/assets/6236424/eaa9c5a1-860d-4a4e-b621-caeb4bd4069a">
     </td>
     <td> <code>{ type: 'Text', title: 'Improve Your Game...', body: 'Want to...', backgroundImage: '...', buttons: [...] }</code>    </th>
   </tr>
   <tr>
     <td>
-      <img width="986" alt="Screenshot 2024-06-11 at 9 24 03 AM" src="https://github.com/BizwiseInc/sectioning-interview-questions/assets/6236424/88b31c38-aa21-4fd6-8437-c1a383253746">
+<img width="986" alt="Screenshot 2024-06-11 at 9 24 03 AM" src="https://github.com/BizwiseInc/sectioning-interview-template/assets/6236424/77f6cb0f-06cb-462d-8811-567d05e37bed">
     </td>
     <td><code>{ type: 'Services', title: '', items: [ { title: '...', body: '...', button: { ... } }, ... ] }</code></th>
   </tr>
   <tr>
     <td>
-      <img width="945" alt="Screenshot 2024-06-11 at 9 23 58 AM" src="https://github.com/BizwiseInc/sectioning-interview-questions/assets/6236424/cf1b9572-3671-4943-92db-d37e81a62906">
+<img width="945" alt="Screenshot 2024-06-11 at 9 23 58 AM" src="https://github.com/BizwiseInc/sectioning-interview-template/assets/6236424/67448479-7f9e-4df1-b422-7ebd86542223">
     </td>
     <td><code>{ type: 'Image & Text', title: '...', body: '...', button: { ... }, imageUrl: 'https://.../img.png' }</code></th>
   </tr>
